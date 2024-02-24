@@ -208,3 +208,17 @@ header,#hot-deal {
     font-size: 18px;
     outline: none ;
 }
+#newspaper{
+    background-color:#111010;
+    padding: 122px 12px;
+    gap: 14px;
+}
+.section-heading .text h2, p{
+    color: aliceblue;
+}
+.sector{
+    color: #e55473;
+}
+.sector-ending{
+    color: #FFFFFF;
+}
